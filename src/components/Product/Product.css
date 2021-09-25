@@ -1,0 +1,20 @@
+.side-container{
+    display: flex;
+    margin-left: 150px;
+    border-bottom: 1px solid lightgray;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.feature-container{
+    margin-left: 30px;
+}
+.icon-color{
+    color: rgb(241, 179, 20);
+}
+.feature-btn{
+    background-color: rgb(241, 179, 20);
+    border: 1px solid lightgray;
+    padding: 5px 40px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+}

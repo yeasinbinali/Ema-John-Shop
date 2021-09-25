@@ -1,0 +1,11 @@
+.search-container{
+    background-color: rgb(53, 51, 51);
+    text-align: center;
+    line-height: 60px;
+}
+.search-container input{
+    width: 75%;
+}
+.cart-container{
+    border-left: 1px solid lightgray;
+}
