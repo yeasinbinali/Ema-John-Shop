@@ -1,4 +1,4 @@
-# Simple shopping webpage (SPA) made using React
+## Simple shopping webpage (SPA) made using React
 
 ## Ema-John-Shop
 
